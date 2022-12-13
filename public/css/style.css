@@ -1,0 +1,94 @@
+.Auth-form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.Auth-form {
+    width: 33rem;
+    box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-radius: 8px;
+    background-color: white;
+}
+
+.logo-space {
+    width: 3rem;
+    margin-top: .7rem;
+}
+
+.home-logo-space {
+    width: 3rem;
+    margin-top: 0.40rem;
+}
+
+.logo-title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2rem;
+    color: #C92EFF;
+}
+
+.title {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.625rem;
+    color: #000000;
+}
+
+.font-style {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    color: #000000;
+}
+
+.form-level-font-size {
+    font-size: 0.875rem;
+}
+
+.submit-btn {
+    background: #C92EFF !important;
+    border-radius: 8px;
+    color: white !important;
+}
+
+.navbar {
+    padding: 20px !important;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.05);
+}
+
+.nav-link {
+    color: black !important;
+}
+
+.bg-none {
+    background: none !important;
+}
+
+.add-btn {
+    background: rgba(201, 46, 255, 0.08) !important;
+    border: 1px solid #ECB7FF !important;
+    border-radius: 8px !important;
+    color: #C92EFF !important;
+}
+
+.book-list-div {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.05);
+    border-radius: 8px;
+}
+
+.book-title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    color: #333333;
+}
